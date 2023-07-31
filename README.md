@@ -1,6 +1,6 @@
 # flutter_assignment_1
 
-A new Flutter project.
+Flutter Assignment 1 - Mobile Application Development CSE464.
 
 ## Getting Started
 
